@@ -1,12 +1,14 @@
-![](./assets/home.png)
-![](./assets/results.png)
-
-### [Small Some Body demo](https://lipeijia.github.io/small-some-body)
+## [Small Some Body demo](https://lipeijia.github.io/small-some-body)
 
 - 模仿網站：[小人物串聯](https://smallsomebody.tw/) 搜尋/新增 NGO。
 - 在首頁搜尋欄輸入組織名稱，按搜尋即會在搜尋結果跳出符合或不符合的資訊。或直接按搜尋，跳出目前 app 所有的組織。可點擊卡片看更詳細的組織資訊。或新增自己的組織。
 - 使用 [create-react-app](https://create-react-app.dev/) 與 [Material-UI](https://material-ui.com/) 製作。
 - 響應式設計。
+
+![](./assets/home.png =250x)
+![](./assets/results.png =250x)
+![](./assets/org.png =250x)
+![](./assets/submit.png =250x)
 
 ### 檔案結構:
 
