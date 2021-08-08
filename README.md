@@ -1,8 +1,12 @@
-### Description:
+![](./assets/home.png)
+![](./assets/results.png)
+
+### [Small Some Body demo](https://lipeijia.github.io/small-some-body)
 
 - 模仿網站：[小人物串聯](https://smallsomebody.tw/) 搜尋/新增 NGO。
+- 在首頁搜尋欄輸入組織名稱，按搜尋即會在搜尋結果跳出符合或不符合的資訊。或直接按搜尋，跳出目前 app 所有的組織。可點擊卡片看更詳細的組織資訊。或新增自己的組織。
 - 使用 [create-react-app](https://create-react-app.dev/) 與 [Material-UI](https://material-ui.com/) 製作。
-- fully responsive web application.
+- 響應式設計。
 
 ### 檔案結構:
 
@@ -38,20 +42,34 @@
 
 ### `src` folder
 
-- 1. control file \
-     `index.js` is the main entry point of this app, and `app.js` is the main route controls via [React Router](https://reactrouter.com/).
+1. _control file_ \
 
-- 2. pages folder \
-     There are the main four pages of this app: `Home.js` is the home page; `NewOrg.js` is the form summit page; `Org.js` is the organization detailed page; `OrgList` is the search results page.
+   - `index.js` app 主要入口。
+   - `app.js` 控制 routes 與主要存資料的地方。使用 [React Router](https://reactrouter.com/)。
 
-- 3. components folder \
-     It contain all reusable components which could import to the page: `Navbar.js` is menu , `Footer.js` is footer, `SearchBar.js` is the search bar of home page, and `OrgCard.js` is in the search results page to produce NGO card. `Controls` folder contain the `Input.js` to reuse the input text style, `MultiSelect.js` is the dropdown select.
+2. _pages folder_ \
+   主要有四支 js 控制頁面：
 
-- 4. hooks folder \
-     It extract the stateful logic from the to reuse for the form.
+   - `Home.js` : 首頁。
+   - `OrgList` : 搜尋結果頁。
+   - `NewOrg.js` : 新增組織。
+   - `Org.js` : 組織詳細頁。
 
-- 5. orgs.json \
-     It is the default data of this app.
+3. _components folder_ \
+   重複使用各個頁面的元件：
+   - `Navbar.js`：menu
+   - `Footer.js`：footer
+   - `SearchBar.js`：首頁的搜尋吧
+   - `OrgCard.js`：在搜尋結果頁重複出現的卡片樣式
+
+- `Controls`：新增頁面的 input 樣式： `Input.js` 與下拉式樣式：`MultiSelect.js`
+
+4. _hooks folder_ \
+
+   - `useForm`：把新增組織的資料邏輯抽出。
+
+5. _orgs.json_ \
+   application initial value.
 
 ### Available Scripts:
 
