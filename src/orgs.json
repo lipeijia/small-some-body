@@ -1,0 +1,72 @@
+[
+  {
+    "id": "recC3pGVJ17UdDnVH",
+    "name": "Teach For Taiwan - TFT為台灣而教",
+    "location": "台北市",
+    "SDGs": [4, 11],
+    "intro": "TFT是一群致力於改善台灣「教育不平等」問題的行動者",
+    "year": "2013",
+    "banner": "https://dl.airtable.com/g0YY3fRDRkurl7JjzOCD_40142138_1849986395119779_3293561268249559040_n.jpg",
+    "logo": "https://dl.airtable.com/3h3RxzLkSnylpBvZ92LR_10679685_621510374634060_8046047727328119260_o.png"
+  },
+  {
+    "id": "recsssss",
+    "name": "羅慧夫顱顏基金會",
+    "location": "全國",
+    "SDGs": [3],
+    "intro": "改變一個孩子的容顏，修補的不只是那個缺口，還有他們整個生命",
+    "year": "1990",
+    "banner": "https://dl.airtable.com/PElzVFfARiiCwgONQvW7_32752106_10156799633333115_3985069454085062656_n.jpg",
+    "logo": "https://dl.airtable.com/X3IEiOkyTEyz5N2zB19C_421062_10151391270193115_1989172648_n.jpg"
+  },
+  {
+    "id": "recFQKb53OyFCV9yR",
+    "name": "台灣同志諮詢熱線",
+    "location": "全國",
+    "SDGs": [5],
+    "intro": "一個長期、固定的機構，專為弱勢同志服務，提供社群尋求認同與情感支持的管道",
+    "year": "2000",
+    "banner": "https://dl.airtable.com/2qERzCdeQu2Zpf2nF5wX_24174177_10155401852064263_7773415858304531681_n.jpg",
+    "logo": "https://dl.airtable.com/CowQPvoFSgqYYVSJLdnW_10678515_10152514130644263_2277394402650778675_n.png"
+  },
+  {
+    "id": "recNaVRQbWpvqioAt",
+    "name": "移人 Migrants’ Park",
+    "location": "全國線上",
+    "SDGs": [5],
+    "intro": "全台灣第一個專門撰寫移工、新移民故事的網路獨立媒體，延續四方報「讓弱勢發聲」理念，持續報導、撰寫異鄉人在台灣的生命故事",
+    "year": "2016",
+    "banner": "https://smallsomebody.tw/sites/default/files/styles/org_banner/public/images/org/banner/Yk5ooDPTx2XxT7u0cJgM_35296340_2080526208856527_998321665706295296_n_0.jpg",
+    "logo": "https://smallsomebody.tw/sites/default/files/styles/org_logo/public/images/org/logo/KwAL0fPyROuDIpzr2c1B_13267911_1732759833633168_7494431093995642720_n_0.png"
+  },
+  {
+    "id": "reciRPOMKRAwHpjdz",
+    "name": "台灣導盲犬協會 Taiwan Guide Dog Association",
+    "location": "臺北市",
+    "SDGs": [10],
+    "intro": "致力於導盲犬觀念的推廣、本土導盲犬的培育繁殖、導…且將訓練成功的導盲犬，免費提供給有需要的視障者",
+    "year": "2002",
+    "banner": "https://dl.airtable.com/9SbfGcaSx6gekuwami0M_1518206_10153618094875023_335514173_n.jpg",
+    "logo": "https://smallsomebody.tw/sites/default/files/styles/org_logo/public/images/org/logo/XgGGK1bSImwFNb2jzqqg_189953_10150403333875023_7455804_n_0.jpg"
+  },
+  {
+    "id": "recUXptwQtHqjyINT",
+    "name": "龍眼林福利協會",
+    "location": "南投縣",
+    "SDGs": [3, 11],
+    "intro": "以區域發展為目標，希望自力解決地方弱化、產業枯竭、失業與福利照顧等問題",
+    "year": "2001",
+    "banner": "https://dl.airtable.com/ISOh4e9QSeFBoJhC6xq4_39091753_2314521128574310_4452680986190151680_n.jpg",
+    "logo": "https://dl.airtable.com/wpMx0EBYSJ2vQ6bVwm3N_69872_166068276752950_659622_n.jpg"
+  },
+  {
+    "id": "recDTHKVRyqsIxI3d",
+    "name": "優雅農夫藝術工廠",
+    "location": "台南市",
+    "SDGs": [11],
+    "intro": "打造鄉村美術館、把「農村」變潮牌，為農民、農產品和在地農村青年找出路！",
+    "year": "2004",
+    "banner": "https://dl.airtable.com/01Q36r3dTbKLafMLU2aQ_27972665_2018239348440759_8522237629767377202_n.jpg",
+    "logo": "https://dl.airtable.com/prAPwdCmQGGnxMdPFj6w_26907485_2006363802961647_206790227676596988_n.jpg"
+  }
+]
