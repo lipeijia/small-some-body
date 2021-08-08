@@ -5,10 +5,10 @@
 - 使用 [create-react-app](https://create-react-app.dev/) 與 [Material-UI](https://material-ui.com/) 製作。
 - 響應式設計。
 
-![](./assets/home.png =250x)
-![](./assets/results.png =250x)
-![](./assets/org.png =250x)
-![](./assets/submit.png =250x)
+![](./assets/home.png =250)
+![](./assets/results.png =250)
+![](./assets/org.png =250)
+![](./assets/submit.png =250)
 
 ### 檔案結構:
 
