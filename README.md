@@ -42,12 +42,12 @@
 
 ### `src` folder
 
-1. _control file_ \
+1. **control file**
 
    - `index.js` app 主要入口。
    - `app.js` 控制 routes 與主要存資料的地方。使用 [React Router](https://reactrouter.com/)。
 
-2. _pages folder_ \
+2. **pages folder**
    主要有四支 js 控制頁面：
 
    - `Home.js` : 首頁。
@@ -55,21 +55,21 @@
    - `NewOrg.js` : 新增組織。
    - `Org.js` : 組織詳細頁。
 
-3. _components folder_ \
+3. **components folder**
    重複使用各個頁面的元件：
+
    - `Navbar.js`：menu
    - `Footer.js`：footer
    - `SearchBar.js`：首頁的搜尋吧
    - `OrgCard.js`：在搜尋結果頁重複出現的卡片樣式
+   - `Controls`：新增頁面的 input 樣式： `Input.js` 與下拉式樣式：`MultiSelect.js`
 
-- `Controls`：新增頁面的 input 樣式： `Input.js` 與下拉式樣式：`MultiSelect.js`
-
-4. _hooks folder_ \
+4. **hooks folder**
 
    - `useForm`：把新增組織的資料邏輯抽出。
 
-5. _orgs.json_ \
-   application initial value.
+5. **orgs.json**
+   初始資料。
 
 ### Available Scripts:
 
