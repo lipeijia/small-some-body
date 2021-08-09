@@ -68,8 +68,10 @@ export default function OrgCard(props) {
               variant='rounded'
               className={classes.avatarLarge}
             />
-            <LocationOnIcon color='action' />
-            <Typography component='p'>{location}</Typography>
+            <div style={{ display: 'flex' }}>
+              <LocationOnIcon color='action' />
+              <Typography component='p'>{location}</Typography>
+            </div>
           </div>
           <Typography
             gutterBottom
