@@ -82,7 +82,7 @@ export default function OrgList({ orgsData }) {
                 Oops! No Matches NGO
               </Typography>
               <div className={classes.actions}>
-                <Link to='/'>
+                <Link to='/small-some-body'>
                   <ColorBtn variant='outlined'>search again</ColorBtn>
                 </Link>
                 <Link to='/new'>

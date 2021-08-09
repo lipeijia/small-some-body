@@ -33,6 +33,7 @@ const useStyles = makeStyles({
   heroImage: {
     display: 'flex',
     justifyContent: 'center',
+    alignItems: 'center',
   },
   searchField: {
     '@media (max-width: 1010px)': {

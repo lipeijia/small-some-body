@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
     marginTop: -theme.spacing(8),
   },
   orgInfo: {
-    display: 'inline-flex',
+    display: 'flex',
     alignItems: 'end',
     paddingBottom: theme.spacing(1),
   },
