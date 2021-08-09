@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({
   },
   orgInfo: {
     display: 'flex',
-    alignItems: 'end',
+    alignItems: 'flex-end',
     paddingBottom: theme.spacing(1),
   },
   titleHeight: {
